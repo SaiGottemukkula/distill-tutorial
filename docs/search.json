@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-25T18:04:32-04:00"
+      "contents": "\r\nAbout Me\r\nMy name is Sai Gottemukkula, and I go to Lexington\r\nHigh School. This is my data science project’s website.\r\nAbout the project\r\nThis project is going to be about the [PROJECT_TOPIC], and it is\r\ncalled the [PROJECT_TITLE]. I mainly chose this project because\r\nI thought that it was relevant to something that happened recently.\r\nGoals\r\n[GOAL1]\r\n[GOAL2]\r\n[GOAL3]\r\nIt may be hard to do this, but I hope that this little project can\r\nhelp [GOAL4]\r\n\r\n“This is data science”\r\n\r\nPreceptor\r\n\r\nKane’s Free High School\r\nData Science Bootcamp\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-25T18:56:21-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-25T18:04:38-04:00"
+      "last_modified": "2022-06-25T18:56:25-04:00"
     }
   ],
   "collections": []

@@ -8,3 +8,21 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+
+My name is **Sai Gottemukkula**, and I go to Lexington High School. This is my data science project's website.
+
+## About the project
+
+This project is going to be about the [PROJECT_TOPIC], and it is called the *[PROJECT_TITLE]*. I mainly chose this project because I thought that it was relevant to something that happened recently.
+
+### Goals
+* [GOAL1]
+* [GOAL2]
+* [GOAL3]
+  + It may be hard to do this, but I hope that this little project can help [GOAL4]
+  
+“This is data science”  
+~ Preceptor
+
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
